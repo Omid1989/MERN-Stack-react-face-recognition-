@@ -6,7 +6,7 @@ How to Run App in localhost<br>
 before run project you must install mongodb <br>
 Clone the repository:<br>
 
-https://github.com/Omid1989/react-face-recognition.git <br>
+https://github.com/Omid1989/MERN-Stack-react-face-recognition-.git <br>
 In the project directory, you can run:<br>
 <br>
 cd react-face-recognition<br>
